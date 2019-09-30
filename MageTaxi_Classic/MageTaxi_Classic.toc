@@ -1,0 +1,11 @@
+## Interface: 11302
+## Title: Syth Frame Modifier
+## Author: Sythalin
+## Version: Classic 1.1
+## Title: Mage Taxi Classic
+## Notes: UI for selling mage portals
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: MageTaxi_Info, MageTaxi_Settings, MageTaxi_Options
+
+magetaxi.lua
+
